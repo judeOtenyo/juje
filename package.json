@@ -1,0 +1,19 @@
+{
+  "name": "juje",
+  "version": "1.0.0",
+  "description": "A test repository for jude and jeff to test out their github skills and flex their muscles alitttle bit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judeOtenyo/juje.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judeOtenyo/juje/issues"
+  },
+  "homepage": "https://github.com/judeOtenyo/juje#readme"
+}
